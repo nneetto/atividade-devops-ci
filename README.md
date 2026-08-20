@@ -25,7 +25,7 @@ Foram criados 3 testes (test_soma, test_subtracao e test_multiplicacao).
 O operador matemático da função soma foi alterado de adição para subtração.
 
 ## 8. Resultado
-Sim, a pipeline identificou o erro imediatamente e o status da Action mudou para FAIL.
+a pipeline identificou o erro imediatamente e o status da Action mudou para FAIL.
 
 ## 9. Conclusão
 A Integração Contínua serve para garantir que alterações no código sejam testadas automaticamente de forma rápida, evitando que erros cheguem ao ambiente final, evitando também que o código seja perdido por problemas físicos na maquina.
